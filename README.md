@@ -1,5 +1,5 @@
 [![Build Status](https://dev.azure.com/marcellocaminiti/Prima%20pipeline/_apis/build/status/Marcello75IT.pipelines-java?branchName=master)](https://dev.azure.com/marcellocaminiti/Prima%20pipeline/_build/latest?definitionId=2&branchName=master)
-
+Faccio una modifica per vedere se scatta la pipeline su AZURE
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
